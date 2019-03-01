@@ -21,6 +21,10 @@ All other known bugs and fixed can be sent to tmgrierson@gmail.com
 
 * stream-three.html
 
+### Features
+
+Pages include different features such as a navigation bar at the top of each page. The index.html page includes 4 icons with hyperlinks showing the user the coding language or CLI icon the full name also hyperlink to the relevant wiki page. Stream-two and stream-three like index.html include more icons and hyperlinks to coding language wiki pages and CLI wiki pages.
+
 ### Technologies used
 
 #### HTML
@@ -42,3 +46,15 @@ Cloud9 IDE is an online integrated development environment
 #### GitHub
 
 GitHub is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project.
+
+### Deployment
+
+This project was developed and stored in git using Cloud9.
+
+The project was regularly pushed to GitHub repository Terrimarie/my-first-website and published to GitHub pages using the GitHub settings.
+
+There are no differences between the deployed version and the development version.
+
+### Disclaimer
+
+The content of this Website is for educational purposes only.
