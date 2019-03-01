@@ -26,10 +26,6 @@ All other known bugs and fixed can be sent to tmgrierson@gmail.com
 * CSS
 * Markdown
 
-### Getting started
-
-### Prerequisites
-
-### Installing
-
-### Running tests
+### CLI's used
+* Cloud9
+* GitHub
