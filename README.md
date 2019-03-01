@@ -13,12 +13,23 @@ All other known bugs and fixed can be sent to tmgrierson@gmail.com
 
 ### File list
 
-index.html
+* index.html
 
-README.md
+* README.md
 
-stream-two.html
+* stream-two.html
 
-stream-three.html
+* stream-three.html
 
-### How to run my file
+### Coding languages used
+* HTML
+* CSS
+* Markdown
+
+### Getting started
+
+### Prerequisites
+
+### Installing
+
+### Running tests
